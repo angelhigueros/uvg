@@ -1,0 +1,12 @@
+section {
+  background-image: url("https://i.pinimg.com/originals/1b/35/0d/1b350dc90c05bffb1e1b9e42df564243.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.protectScreen{
+  background-color: rgba(24, 23, 23, 0.479);
+  width: 100%;
+  height: 100vh;
+}
